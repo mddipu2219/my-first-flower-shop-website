@@ -1,0 +1,33 @@
+/* header */
+
+.header-container {
+  display: flex;
+  background-color: rgb(185, 144, 158);
+  justify-content: space-between;
+  gap: 100px;
+}
+.img {
+  height: 500px;
+  width: 400px;
+}
+.header-tittle {
+  text-align: center;
+  font-size: 60px;
+  font-weight: 600;
+}
+.primary-btn {
+  background-color: rgb(226, 13, 84);
+  color: white;
+  padding: 10px;
+  border: none;
+}
+.header-firstpart {
+  padding: 150px 10px 50px 150px;
+}
+.header-secondpart {
+  padding: 30px 80px 0px 30px;
+  position: right bottom;
+}
+.header-container .header-lastpart {
+  padding: 100px 130px 0px 50px;
+}
