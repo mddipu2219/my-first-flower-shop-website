@@ -31,3 +31,30 @@
 .header-container .header-lastpart {
   padding: 100px 130px 0px 50px;
 }
+/* main */
+.main-first-section {
+  text-align: center;
+  margin: 80px 150px 10px 150px;
+}
+.section-tittle {
+  font-size: 30px;
+  font-weight: 600;
+}
+.section-content {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px 100px;
+  text-align: center;
+  padding: 60px;
+  gap: 50px;
+}
+.section-image1 {
+  background-color: lightpink;
+  background-size: contain;
+}
+.section-image2 {
+  background-color: lightblue;
+}
+.section-image3 {
+  background-color: lightgray;
+}
