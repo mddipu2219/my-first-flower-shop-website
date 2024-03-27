@@ -67,3 +67,28 @@
   padding: 30px;
   font-display: center;
 }
+/* second section */
+.second-section {
+  display: flex;
+  justify-content: space-between;
+  background-color: lightpink;
+}
+.second-section-para {
+  padding: 100px;
+  width: 50%;
+}
+.section-tittle {
+  font-size: 30px;
+  font-weight: 700;
+}
+.primary-btn {
+  text-align: center;
+  padding: 10px 20px;
+}
+.second-section-img {
+  padding-right: 100px;
+  width: 50%;
+}
+.section-span {
+  color: rgb(255, 6, 47);
+}
