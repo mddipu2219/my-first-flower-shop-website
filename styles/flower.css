@@ -106,3 +106,30 @@ body {
 
   justify-content: space-around;
 }
+/* last section */
+
+.last-section {
+  padding-top: 80px;
+  display: block;
+  text-align: center;
+}
+
+.latest-section {
+  background-image: url("Rectangle 9.png");
+
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  border-radius: 8px;
+  padding: 100px;
+  text-align: center;
+}
+latest-section-padding {
+  background-image: url("Flower Asset/Rectangle 9.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  border-radius: 8px;
+  padding: 100px;
+  text-align: center;
+}
