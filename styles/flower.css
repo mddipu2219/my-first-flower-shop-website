@@ -47,6 +47,7 @@
   text-align: center;
   padding: 60px;
   gap: 50px;
+  font-display: center;
 }
 .section-image1 {
   background-color: lightpink;
@@ -57,4 +58,12 @@
 }
 .section-image3 {
   background-color: lightgray;
+}
+.section-content-added {
+  display: flex;
+  justify-content: space-between;
+  background-color: lightgrey;
+  margin: 40px 80px 40px 120px;
+  padding: 30px;
+  font-display: center;
 }
