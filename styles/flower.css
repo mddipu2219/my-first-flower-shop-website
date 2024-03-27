@@ -1,5 +1,7 @@
 /* header */
-
+body {
+  font-family: "Lora", serif;
+}
 .header-container {
   display: flex;
   background-color: rgb(185, 144, 158);
@@ -91,4 +93,16 @@
 }
 .section-span {
   color: rgb(255, 6, 47);
+}
+.section-images-container {
+  display: flex;
+  gap: 10px;
+  margin-right: 150px;
+  margin-left: 50px;
+  justify-content: space-around;
+}
+.more-pictures {
+  text-align: center;
+
+  justify-content: space-around;
 }
