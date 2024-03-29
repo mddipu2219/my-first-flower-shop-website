@@ -122,6 +122,22 @@ final-section-padding {
   padding: 100px;
   text-align: center;
 }
-.bg-img {
-  background-image: url("/Flower Asset/Rectangle\ 9.png");
+/* footer */
+footer {
+  background-color: black;
+  padding: 100px 200px;
+  margin-top: 60px;
+  color: white;
+  text-align: center;
+}
+.footer-tittle {
+  font-size: 40px;
+  font-weight: 700;
+}
+.footer-span {
+  color: rgb(233, 93, 116);
+}
+.footer-para {
+  color: rgb(192, 183, 183);
+  font-size: small;
 }
