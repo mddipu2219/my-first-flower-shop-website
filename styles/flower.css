@@ -108,27 +108,16 @@ body {
 }
 /* last section */
 
-.last-section {
+.final-section {
   padding-top: 80px;
+  padding-bottom: 50px;
+  margin: 80px 0px;
   display: block;
   text-align: center;
+  background-color: lightseagreen;
 }
 
-.latest-section {
-  background-image: url("Rectangle 9.png");
-
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
-  border-radius: 8px;
-  padding: 100px;
-  text-align: center;
-}
-latest-section-padding {
-  background-image: url("Flower Asset/Rectangle 9.png");
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
+final-section-padding {
   border-radius: 8px;
   padding: 100px;
   text-align: center;
